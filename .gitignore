@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# build output
+outer/public/
+inner/build/
+
+# misc
+.DS_Store
+*.psd
+.env
+.env.local
+.env.*.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
