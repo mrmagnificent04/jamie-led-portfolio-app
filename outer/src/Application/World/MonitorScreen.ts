@@ -205,7 +205,8 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://os.jamieledesma.com/';
+        // TODO: swap to https://os.jamieledesma.com/ once that domain is bought and attached
+        iframe.src = 'https://jamieledesma-inner.vercel.app/';
         /**
          * Use dev server is query params are present
          *
