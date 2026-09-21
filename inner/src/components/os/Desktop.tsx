@@ -4,6 +4,7 @@ import ShowcaseExplorer from '../applications/ShowcaseExplorer';
 import JamordleApp from '../applications/Henordle';
 import DoomApp from '../applications/Doom';
 import ScrabbleApp from '../applications/Scrabble';
+import OregonTrailApp from '../applications/OregonTrail';
 import ShutdownSequence from './ShutdownSequence';
 import Toolbar from './Toolbar';
 import DesktopShortcut, { DesktopShortcutProps } from './DesktopShortcut';
@@ -45,6 +46,12 @@ const APPLICATIONS: {
         name: 'Scrabble',
         shortcutIcon: 'scrabbleIcon',
         component: ScrabbleApp,
+    },
+    trail: {
+        key: 'trail',
+        name: 'Oregon Trail',
+        shortcutIcon: 'trailIcon',
+        component: OregonTrailApp,
     },
     credits: {
         key: 'credits',
