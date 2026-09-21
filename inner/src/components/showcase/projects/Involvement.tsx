@@ -48,8 +48,9 @@ const InvolvementProjects: React.FC<InvolvementProjectsProps> = (props) => {
                     event planning for meticulous bookkeeping and long hours
                     in Excel. That operational foundation ultimately prepared
                     me to run for President. Over my term, my primary focus
-                    was [insert your core presidential achievement here]. I
-                    wanted to ensure we were serving every facet of our
+                    was making sure LBSA stayed that home away from home for
+                    every member, not just a line on a resume. I wanted to
+                    ensure we were serving every facet of our
                     members' college experience. To do this, I organized our
                     first-ever alumni welcome-back event, coordinated beach
                     mixers, and hosted corporate industry panels. LBSA gave so
